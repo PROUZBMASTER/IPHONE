@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+body {
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.city {
+    font-weight: 400;
+    font-size: 16px;
+    color: #100E0E;
+    margin-right: 8px;
+}
+
+.moscow {
+    font-weight: 400;
+    font-size: 16px;
+    color: #0071E4;
+}
