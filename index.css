@@ -15,10 +15,518 @@ body {
     font-size: 16px;
     color: #100E0E;
     margin-right: 8px;
+    margin-top: 20px;
 }
 
 .moscow {
     font-weight: 400;
     font-size: 16px;
     color: #0071E4;
+    margin-top: 20px;
+}
+
+.vector {
+    width: 16.8px;
+    height: 9.6px;
+    margin-top: 28px;
+    margin-left: 7.6px;
+}
+
+.icn {
+    margin-top: 15px;
+    width: 32px;
+    height: 32px;
+    margin-left: 8px;
+}
+
+.inc {
+    margin-right: 0px;
+}
+
+.nav1 {
+    background: #F9F9F9;
+}
+
+.nav2 {
+    padding-top: 33px;
+    padding-bottom: 40px;
+    height: 94px;
+}
+
+.as1 {
+    position: relative;
+    bottom: 6px;
+}
+
+.as2 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #100E0E;
+    text-decoration: none;
+    position: relative;
+    left: 40px;
+}
+
+.as3 {
+    height: 24px;
+    background: #FDEFBF;
+    border-radius: 8px;
+    padding: 1px 18px 2px 18px;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    color: #100E0E;
+    position: relative;
+    left: -5px;
+    top: 2px;
+}
+
+.fire {
+    position: relative;
+    bottom: 2px;
+    right: 10px;
+}
+
+.as4 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #0071E4;
+    border-bottom: solid 2px #0071E4;
+    text-decoration: none;
+    position: relative;
+    left: 20px;
+    top: 1px;
+}
+
+.as5 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #100E0E;
+    text-decoration: none;
+    position: relative;
+    left: 10px;
+    top: 2px;
+}
+
+.as6 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #100E0E;
+    text-decoration: none;
+    position: relative;
+    left: 30px;
+    top: 2px;
+}
+
+.as7 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #100E0E;
+    text-decoration: none;
+    position: relative;
+    right: 55px;
+    top: 2px;
+}
+
+.as8 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #100E0E;
+    text-decoration: none;
+    position: relative;
+    right: 30px;
+    top: 2px;
+}
+
+.as9 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #100E0E;
+    text-decoration: none;
+    position: relative;
+    right: 105px;
+    top: 2px;
+}
+
+.as10 {
+    text-decoration: none;
+}
+
+.num {
+    font-weight: 400;
+    font-size: 20px;
+    color: #100E0E;
+}
+
+.vam {
+    font-weight: 400;
+    font-size: 16px;
+    color: #0071E4;
+    position: relative;
+    bottom: 15px;
+    left: 10px;
+}
+
+.imgh {
+    width: 15.36px;
+    height: 19.76px;
+    position: relative;
+    left: 20px;
+    bottom: 20px;
+}
+
+.txts {
+    position: relative;
+    bottom: 25px;
+    left: 35px;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.nav3 {
+    height: 100px;
+}
+
+.catalog {
+    padding: 16px 16px 16px 52px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #0071E4;
+    border-radius: 16px;
+    border: none;
+    margin-top: 22px;
+}
+
+.rg {
+    width: 32px;
+    height: 32px;
+    position: relative;
+    right: 210px;
+    bottom: 1px;
+}
+
+.poy {
+    font-weight: 400;
+    font-size: 20px;
+    color: #B7B7B7;
+    width: 594px;
+    height: 56px;
+    background: #FFFFFF;
+    border: 1px solid #B7B7B7;
+    border-radius: 8px;
+    padding: 16px 56px 16px 56px;
+    position: relative;
+    top: 24px;
+    right: 44px;
+}
+
+.twt {
+    margin-top: 22px;
+}
+
+.loupe {
+    width: 24px;
+    height: 24px;
+    position: relative;
+    bottom: 18px;
+    right: 20px;
+}
+
+.heart {
+    width: 33.33px;
+    height: 28.61px;
+    position: relative;
+    top: 36px;
+    right: -60px;
+}
+
+.oo {
+    width: 34.25px;
+    height: 30.98px;
+    position: relative;
+    top: 36px;
+    left: 90px;
+}
+
+.savat {
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #52D116;
+    border-radius: 16px;
+    border: none;
+    padding: 16px 69px 16px 59px;
+    margin-top: 22px;
+}
+
+.savat_img {
+    width: 24px;
+    height: 24px;
+    position: relative;
+    right: -90px;
+    bottom: -41px;
+}
+
+.green_one {
+    width: 34px;
+    height: 32px;
+    position: relative;
+    right: -185px;
+    bottom: -37px;
+}
+
+.gg {
+    margin-bottom: 22px;
+}
+
+.nav4 {
+    margin-top: 22px;
+}
+
+.iphone_txt {
+    font-weight: 400;
+    font-size: 20px;
+    color: #100E0E;
+    position: relative;
+    top: 10px;
+}
+
+.iph {
+    width: 280px;
+    height: 64px;
+    background: url(./img/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: none;
+    position: relative;
+    bottom: 8px;
+}
+
+.iPhone_size {
+    width: 48px;
+    height: 48px;
+}
+
+.two {
+    margin-left: 8px;
+}
+
+.three {
+    margin-left: 8px;
+}
+
+.four {
+    margin-left: 8px;
+}
+
+.five {
+    margin-left: 8px;
+    color: #0071E4;
+}
+
+.six {
+    margin-left: 8px;
+}
+
+.wwe1 {
+    position: relative;
+}
+
+.wwe2 {
+    position: relative;
+    left: 20px;
+}
+
+.wwe3 {
+    position: relative;
+    left: 20px;
+}
+
+.wwe4 {
+    position: relative;
+    right: 95px;
+}
+
+.wwe5 {
+    position: relative;
+    right: 80px;
+}
+
+.wwe6 {
+    position: relative;
+    right: 45px;
+}
+
+.sect1 {
+    margin-top: 10px;
+    background: #D0EAFC;
+    padding: 99px 269px 0 269px;
+    margin-bottom: 24px;
+}
+
+.ot137 {
+    font-weight: 400;
+    color: #1E3240;
+}
+
+.ot1 {
+    font-size: 32px;
+    position: relative;
+    top: 18px;
+    right: 16px;
+}
+
+.ot2 {
+    font-size: 48px;
+}
+
+.txtrs {
+    position: relative;
+    right: 45px;
+}
+
+.pbor {
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    background: #0071E4;
+    border-radius: 8px;
+    border: none;
+    padding: 18.5px 39.5px;
+    position: relative;
+    right: 57px;
+}
+
+.orig {
+    position: relative;
+    right: 10px;
+}
+
+.banner_heading {
+    position: relative;
+    right: 65px;
+}
+
+.mls {
+    position: relative;
+    left: 55px;
+    top: 40px;
+}
+
+.купить_iPhone_в_Москве {
+    font-weight: 500;
+    font-size: 48px;
+    color: #100E0E;
+    margin-bottom: 24px;
+}
+
+.mmo {
+    font-weight: 500;
+    font-size: 24px;
+    color: #0071E4;
+}
+
+.fourteen {
+    font-weight: 500;
+    font-size: 16px;
+    color: #0071E4;
+}
+
+.XS {
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+    color: #100E0E;
+}
+
+.cardw {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 16px;
+    margin-bottom: 24px;
+    width: 282px;
+    height: 611px;
+}
+
+.cardf {
+    margin-top: 18px;
+}
+
+.prgrf {
+    margin-top: 2px;
+    padding-left: 20px;
+}
+
+.icons1 {
+    margin-top: 1px;
+}
+
+.ect {
+    font-weight: 500;
+    font-size: 16px;
+    color: #706E6E;
+}
+
+.one_year {
+    font-weight: 500;
+    font-size: 16px;
+    color: #706E6E;
+}
+
+.thseven {
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration-line: line-through;
+    color: #878787;
+}
+
+.money {
+    font-weight: 500;
+    font-size: 32px;
+    color: #100E0E;
+}
+
+.btner {
+    width: 266px;
+    height: 56px;
+    background: #6FD91C;
+    border-radius: 8px;
+    border: none;
+    font-weight: 500;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.iphone_img_sr {
+    text-align: center;
+}
+
+.xochu {
+    font-weight: 500;
+    font-size: 16px;
+    color: #0071E4;
+}
+
+.kupit {
+    font-weight: 500;
+    font-size: 16px;
+    text-align: right;
+    color: #706E6E;
+}
+
+.jhfhj{
+    width: 266px;
+}
+
+.stars{
+    margin-right: 55px;
+}
+
+.str{
+    width: 20px;
+    height: 20px;
 }
