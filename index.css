@@ -425,6 +425,7 @@ p {
 }
 
 .mmo {
+    margin-bottom: 24px;
     font-weight: 500;
     font-size: 24px;
     color: #0071E4;
@@ -466,31 +467,40 @@ p {
 }
 
 .ect {
+    margin-left: 5px;
+    margin-right: 14px;
     font-weight: 500;
     font-size: 16px;
     color: #706E6E;
 }
 
 .one_year {
+    margin-bottom: 0;
     font-weight: 500;
     font-size: 16px;
     color: #706E6E;
 }
 
 .thseven {
+    margin-right: 16px;
     font-weight: 400;
     font-size: 20px;
     text-decoration-line: line-through;
     color: #878787;
+    margin-bottom: 0;
 }
 
 .money {
+    margin-bottom: 0;
+    margin-top: -5px;
     font-weight: 500;
     font-size: 32px;
     color: #100E0E;
 }
 
 .btner {
+    margin-top: 16px;
+    margin-bottom: 8px;
     width: 266px;
     height: 56px;
     background: #6FD91C;
@@ -506,6 +516,7 @@ p {
 }
 
 .xochu {
+    margin-left: 8px;
     font-weight: 500;
     font-size: 16px;
     color: #0071E4;
@@ -518,15 +529,274 @@ p {
     color: #706E6E;
 }
 
-.jhfhj{
+.jhfhj {
     width: 266px;
 }
 
-.stars{
+.stars {
     margin-right: 55px;
 }
 
-.str{
+.str {
     width: 20px;
     height: 20px;
+}
+
+.mb {
+    margin-bottom: 16px;
+}
+
+#btni {
+    background: #0071E4;
+}
+
+/* ---------------------------------------------my section---------------------- */
+.big_text {
+    margin-top: 72px;
+    font-size: Bold;
+    font-size: 32px;
+    color: #100E0E;
+    font-weight: 700;
+    margin-bottom: 22px;
+}
+
+.verybig {
+    font-size: 16px;
+    color: #585656;
+    margin-bottom: 32px;
+}
+
+.hard {
+    background-color: #000000;
+    margin-bottom: 32px;
+}
+
+.pro {
+    margin-top: 84px;
+    margin-bottom: 16px;
+    font-size: 56px;
+    color: #FFFFFF;
+    font-weight: 900;
+}
+
+.propas {
+    font-size: Medium;
+    font-size: 24px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+
+.btnx {
+    border-radius: 8px;
+    background-color: #0071E4;
+    width: 160px;
+    height: 56px;
+    color: #FFFFFF;
+}
+
+#bigi {
+    margin-top: 0;
+}
+
+#vee {
+    margin-bottom: 64px;
+}
+
+/*------------------------------------------------ my section end----------------------------------------- */
+/* ----------------------------------------------- section4 start------------------------------------------ */
+.nashi {
+    font-size: 32px;
+    color: #100E0E;
+    font-weight: 600;
+    margin-top: 80px;
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+.carp {
+    padding-top: 24px;
+    width: 228px;
+    height: 525px;
+    text-align: center;
+    background: linear-gradient(180.04deg, #FE94A6 0.04%, #F2F2F2 65.84%);
+    border-radius: 16px;
+}
+
+.aksiya {
+    font-size: 23px;
+    color: #100E0E;
+    font-weight: 600;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.carp_p {
+    font-size: 14px;
+    color: #585656;
+    margin-bottom: 99px;
+}
+
+.carp-but {
+    border-radius: 8px;
+    border: 1px solid #0071E4;
+    width: 212px;
+    height: 56px;
+    background: transparent;
+    color: #0071E4;
+}
+
+.ml-col {
+    margin-left: 40px;
+}
+
+.uff {
+    height: 188px;
+    margin-bottom: 50px;
+}
+
+#cari {
+    background: linear-gradient(180.04deg, #E685FF 0.04%, #F2F2F2 65.84%);
+    border-radius: 16px;
+}
+
+#cii {
+    background: linear-gradient(180.04deg, #7DE9FF 0.04%, #F2F2F2 65.84%);
+    border-radius: 16px;
+}
+
+#ble {
+    background: linear-gradient(180.04deg, #FFE685 0.04%, #F7F7F7 65.84%);
+    border-radius: 16px;
+}
+
+.caro {
+    background: linear-gradient(180.04deg, #ADFFC1 0.04%, #F2F2F2 65.84%), #F2F2F2;
+    border-radius: 16px;
+}
+
+/* -------------------------------------------section4 start----------------------------------------- */
+.section4 {
+    margin-top: 40px;
+    padding-top: 55px;
+    background: #F9F9F9;
+    padding-bottom: 55px;
+}
+
+.pod {
+    font-weight: 700;
+    color: #100E0E;
+    margin-bottom: 8px;
+}
+
+.podi {
+    margin-bottom: 25px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #585656;
+}
+
+.formi {
+    background: linear-gradient(90.34deg, #F7355D 0.3%, #9747FF 101.33%);
+    border-radius: 16px;
+    border: none;
+    width: 486px;
+    height: 196px;
+    color: white;
+}
+
+.ckidka {
+    margin-left: 40px;
+    padding-top: 16px;
+    margin-bottom: 4px;
+}
+
+.na {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    margin-left: 40px;
+    margin-bottom: 16px;
+}
+
+.inpi {
+    width: 246px;
+    height: 56px;
+    background: #FFFFFF;
+    border: 1px solid #DBDBDB;
+    border-radius: 8px;
+    margin-left: 32px;
+    padding-left: 24px;
+}
+.sinbat{
+    margin-left: 16px;
+    width: 160px;
+height: 56px;
+background: #E7E7E7;
+border-radius: 8px;
+border: none;
+}
+/* -------------------------------------------footer start-------------------------------- */
+footer{
+    margin-top: 85px;
+}
+.yil{
+    font-weight: 400;
+font-size: 16px;
+color: #878787;
+margin-top: 27px;
+margin-bottom: 8px;
+}
+.yili{
+    font-weight: 400;
+    font-size: 16px;
+    color: #878787;
+    margin-bottom: 24px;
+}
+.yilix{
+    font-weight: 400;
+font-size: 14px;
+color: #B7B7B7;
+}
+.qalin{
+    font-weight: 500;
+font-size: 16px;
+color: #100E0E;
+margin-bottom: 16px;
+}
+.nomer{
+    font-weight: 500;
+font-size: 40px;
+color: #100E0E;
+margin-bottom: 4px;
+}
+.soat{
+    font-weight: 400;
+font-size: 14px;
+color: #706E6E;
+margin-bottom: 11px;
+}
+.logos{
+    display: flex;
+}
+.zak{
+    font-weight: 500;
+font-size: 20px;
+color: #0071E4;
+margin-right: 24px;
+}
+.telegram{
+    width: 32px;
+    height: 32px;
+    margin-right: 8px;
+}
+.moskva{
+    margin-top: 40px;
+    font-weight: 600;
+font-size: 16px;
+color: #100E0E;
+margin-bottom: 16px;
+}
+.mas{
+    margin-top: 0;
 }
