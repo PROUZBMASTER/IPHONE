@@ -728,75 +728,465 @@ p {
     margin-left: 32px;
     padding-left: 24px;
 }
-.sinbat{
+
+.sinbat {
     margin-left: 16px;
     width: 160px;
-height: 56px;
-background: #E7E7E7;
-border-radius: 8px;
-border: none;
+    height: 56px;
+    background: #E7E7E7;
+    border-radius: 8px;
+    border: none;
 }
+
 /* -------------------------------------------footer start-------------------------------- */
-footer{
+footer {
     margin-top: 85px;
 }
-.yil{
+
+.yil {
     font-weight: 400;
-font-size: 16px;
-color: #878787;
-margin-top: 27px;
-margin-bottom: 8px;
+    font-size: 16px;
+    color: #878787;
+    margin-top: 27px;
+    margin-bottom: 8px;
 }
-.yili{
+
+.yili {
     font-weight: 400;
     font-size: 16px;
     color: #878787;
     margin-bottom: 24px;
 }
-.yilix{
+
+.yilix {
     font-weight: 400;
-font-size: 14px;
-color: #B7B7B7;
+    font-size: 14px;
+    color: #B7B7B7;
 }
-.qalin{
+
+.qalin {
     font-weight: 500;
-font-size: 16px;
-color: #100E0E;
-margin-bottom: 16px;
+    font-size: 16px;
+    color: #100E0E;
+    margin-bottom: 16px;
 }
-.nomer{
+
+.nomer {
     font-weight: 500;
-font-size: 40px;
-color: #100E0E;
-margin-bottom: 4px;
+    font-size: 40px;
+    color: #100E0E;
+    margin-bottom: 4px;
 }
-.soat{
+
+.soat {
     font-weight: 400;
-font-size: 14px;
-color: #706E6E;
-margin-bottom: 11px;
+    font-size: 14px;
+    color: #706E6E;
+    margin-bottom: 11px;
 }
-.logos{
+
+.logos {
     display: flex;
 }
-.zak{
+
+.zak {
     font-weight: 500;
-font-size: 20px;
-color: #0071E4;
-margin-right: 24px;
+    font-size: 20px;
+    color: #0071E4;
+    margin-right: 24px;
 }
-.telegram{
+
+.telegram {
     width: 32px;
     height: 32px;
     margin-right: 8px;
 }
-.moskva{
+
+.moskva {
     margin-top: 40px;
     font-weight: 600;
-font-size: 16px;
-color: #100E0E;
-margin-bottom: 16px;
+    font-size: 16px;
+    color: #100E0E;
+    margin-bottom: 16px;
 }
-.mas{
+
+.mas {
     margin-top: 0;
 }
+
+.mno {
+    margin-top: 10px;
+    margin-right: 35px;
+}
+
+.lol42 {
+    width: 30px;
+}
+
+.tol42 {
+    margin-left: 40px;
+    width: 25px;
+}
+
+.as17 {
+    margin-top: 6px;
+}
+
+.navbar-toggler {
+    margin-top: 10px;
+}
+
+.pboy {
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    background: #0071E4;
+    border-radius: 8px;
+    border: none;
+    width: 160px;
+    height: 40px;
+}
+
+/*-------------------------------------------- Responsive------------------------------------ */
+/* 992 dan 1199 gacha */
+@media (max-width: 1199px) {}
+
+/* 768 dan 991 gacha */
+@media (max-width: 991px) {}
+
+/* 576 dan 767 gacha */
+@media (max-width: 767px) {}
+
+/* 0 dan 575 gacha */
+@media (max-width: 575px) {
+    .navbar {
+        width: 100%;
+    }
+
+    .sect1 {
+        display: none;
+    }
+
+    .sect12 {
+        background: #D0EAFC;
+    }
+
+    .ot13 {
+        font-weight: 400;
+        font-size: 20px;
+        color: #1E3240;
+        padding-top: 10px;
+        padding-right: 10px;
+    }
+
+    .txtrs {
+        margin-left: 70px;
+    }
+
+    .ot23 {
+        font-weight: 400;
+        font-size: 32px;
+        color: #1E3240;
+    }
+
+    .bgm {
+        padding-top: 16px;
+    }
+
+    .pboy {
+        font-weight: 500;
+        font-size: 16px;
+        color: #FFFFFF;
+        background: #0071E4;
+        border-radius: 8px;
+        border: none;
+        width: 160px;
+        height: 40px;
+        margin-bottom: 16px;
+    }
+
+    .orig {
+        position: relative;
+        right: 22px;
+    }
+
+    .navbar-toggler {
+        margin-left: -40px;
+        margin-right: 0;
+    }
+
+    .купить_iPhone_в_Москве {
+        font-weight: 500;
+        font-size: 24px;
+        color: #100E0E;
+        margin-bottom: 24px;
+        margin-top: 10px;
+    }
+
+    .mmo {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        color: #0071E4;
+        margin-bottom: 0;
+    }
+
+    .cardw {
+        transform: scale(0.9);
+        margin-bottom: -20px;
+    }
+
+    .big_text {
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 29px;
+        color: #100E0E;
+        margin-top: 30px;
+    }
+
+    .prow {
+        margin-top: 24px;
+        font-weight: 700;
+        font-size: 20px;
+        padding-right: 10px;
+        color: #FFFFFF;
+    }
+
+    .propasw {
+        font-weight: 500;
+        font-size: 16px;
+        padding-right: 8px;
+        color: #FFFFFF;
+    }
+
+    .btnxw {
+        width: 160px;
+        height: 40px;
+        background: #0071E4;
+        border-radius: 8px;
+        border: none;
+        font-weight: 500;
+        font-size: 16px;
+        padding-right: 10px;
+        color: #FFFFFF;
+        margin-bottom: 24px;
+    }
+
+    .nashi {
+        font-size: 24px;
+        color: #100E0E;
+        font-weight: 700;
+        margin-top: 50px;
+        margin-bottom: 24px;
+        text-align: center;
+    }
+
+    .aksiya233 {
+        font-weight: 700;
+        font-size: 20px;
+        color: #100E0E;
+        margin-top: 5px;
+        margin-left: 8px;
+        position: relative;
+        bottom: 10px;
+    }
+
+    .carp1 {
+        width: 288px;
+        height: 135px;
+        padding-top: 24px;
+        background: #F9F9F9;
+        border-radius: 16px;
+        margin-bottom: 15px;
+    }
+
+    .carp2 {
+        width: 288px;
+        height: 180px;
+        padding-top: 24px;
+        background: #F9F9F9;
+        border-radius: 16px;
+        margin-bottom: 15px;
+    }
+
+    .carp3 {
+        width: 288px;
+        height: 135px;
+        padding-top: 24px;
+        background: #F9F9F9;
+        border-radius: 16px;
+        margin-bottom: 15px;
+    }
+
+    .carp4 {
+        width: 288px;
+        height: 135px;
+        padding-top: 24px;
+        background: #F9F9F9;
+        border-radius: 16px;
+        margin-bottom: 15px;
+    }
+
+    .carp_hg {
+        font-weight: 400;
+        font-size: 16px;
+        color: #585656;
+        position: relative;
+        bottom: 15px;
+        margin-left: 16px;
+    }
+
+    .kitkat {
+        padding-bottom: 10px;
+        margin-left: 16px;
+        position: relative;
+        bottom: 10px;
+    }
+
+    .gol_ur1 {
+        font-weight: 700;
+        font-size: 24px;
+        color: #100E0E;
+    }
+
+    .gol_ur2 {
+        font-weight: 400;
+        font-size: 16px;
+        color: #585656;
+    }
+
+    .jojo {
+        background: linear-gradient(90.34deg, #F7355D 0.3%, #9747FF 101.33%);
+        border-radius: 8px;
+        border: none;
+        margin: auto;
+    }
+
+    .gol_ur3 {
+        font-weight: 700;
+        font-size: 16px;
+        color: #FFFFFF;
+        margin-left: 16px;
+        margin-bottom: 0;
+        padding-top: 8px;
+    }
+
+    .gol_ur4 {
+        font-weight: 500;
+        font-size: 14px;
+        color: #FFFFFF;
+        margin-left: 16px;
+        padding-bottom: 8px;
+    }
+
+    .seven_number {
+        width: 100%;
+        height: 56px;
+        background: #FFFFFF;
+        border: 1px solid #DBDBDB;
+        border-radius: 8px;
+        padding-left: 24px;
+        margin-bottom: 15px;
+    }
+
+    .подписаться {
+        font-weight: 500;
+        font-size: 16px;
+        color: #585656;
+        width: 100%;
+        height: 56px;
+        background: #E7E7E7;
+        border-radius: 8px;
+        padding: 16px 87px 22px 87px;
+        border: none;
+    }
+    .banner_heading {
+        position: relative;
+        right: 7px;
+    }
+    .ozz {
+        display: flex;
+        margin-left: 40px;
+    }
+
+    .yil {
+        margin-left: 90px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        color: #878787;
+    }
+
+    .yilix {
+        text-align: center;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 13px;
+        color: #B7B7B7;
+    }
+
+    .zaybal {
+        width: 26px;
+        height: 30px;
+        margin-top: 25px;
+        position: absolute;
+        left: 105px;
+    }
+
+    .qalin {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        color: #100E0E;
+    }
+
+    .nomer {
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 29px;
+        color: #100E0E;
+    }
+
+    .soat {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 14px;
+        color: #706E6E;
+        margin-bottom: 0;
+    }
+
+    .moskva {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        color: #100E0E;
+        margin-top: 8px;
+        margin-bottom: 0;
+    }
+
+    .footer2 {
+        margin: 0;
+        background: #FFFFFF;
+        box-shadow: 0px -4px 4px rgba(0, 0, 0, 0.05);
+    }
+
+    .ca {
+        padding-top: 5px;
+        text-align: center;
+    }
+
+    .katalog {
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 16px;
+        color: #282626;
+    }
+    .va{
+        color: #0071E4;
+    }
+    .mas{
+        margin-bottom: 24px;
+    }
+}
+
+/* -------------------------------------------------------------------------------------------------------------------------------- */
